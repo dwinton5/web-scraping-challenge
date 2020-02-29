@@ -1,8 +1,8 @@
 # MISSION TO MARS SCRAPING PROJECT #
 
 # Project dependencies
-from bs4 import BeautifulSoup
 from splinter import Browser
+from bs4 import BeautifulSoup
 import pandas as pd
 import requests
 import pymongo
